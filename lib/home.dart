@@ -30,6 +30,7 @@ class Home extends StatelessWidget {
                     'images/rumah-adat-aceh.jpg',
                     width: 100,
                     height: 100,
+                    fit: BoxFit.fitWidth,
                   ),
                   onTap: () {
                     Navigator.push(
@@ -47,6 +48,7 @@ class Home extends StatelessWidget {
                     'images/rumah-adat-sumut.jpg',
                     width: 100,
                     height: 100,
+                    fit: BoxFit.fitWidth,
                   ),
                   onTap: () {
                     Navigator.push(
@@ -64,6 +66,7 @@ class Home extends StatelessWidget {
                     'images/rumah-adat-riau.jpg',
                     width: 100,
                     height: 100,
+                    fit: BoxFit.fitWidth,
                   ),
                   onTap: () {
                     Navigator.push(
@@ -81,6 +84,7 @@ class Home extends StatelessWidget {
                     'images/rumah-adat-kepulauan-riau.jpg',
                     width: 100,
                     height: 100,
+                    fit: BoxFit.fitWidth,
                   ),
                   onTap: () {
                     Navigator.push(
@@ -98,6 +102,7 @@ class Home extends StatelessWidget {
                     'images/rumah-adat-jambi.jpg',
                     width: 100,
                     height: 100,
+                    fit: BoxFit.fitWidth,
                   ),
                   onTap: () {
                     Navigator.push(
@@ -115,6 +120,7 @@ class Home extends StatelessWidget {
                     'images/rumah-adat-bangka.jpg',
                     width: 100,
                     height: 100,
+                    fit: BoxFit.fitWidth,
                   ),
                   onTap: () {
                     Navigator.push(
@@ -132,6 +138,7 @@ class Home extends StatelessWidget {
                     'images/rumah-adat-sumbar.jpg',
                     width: 100,
                     height: 100,
+                    fit: BoxFit.fitWidth,
                   ),
                   onTap: () {
                     Navigator.push(
