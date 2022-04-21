@@ -16,7 +16,8 @@ class Home extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       theme: ThemeData(appBarTheme: const AppBarTheme(color: Colors.blue)),
       home: Scaffold(
-          appBar: AppBar(title: const Text("Rumah Adat Di Indonesia")),
+          appBar: AppBar(
+              title: const Text("Rumah Adat Di Indonesia"), centerTitle: true),
           body: ListView(
             children: [
               const SizedBox(
